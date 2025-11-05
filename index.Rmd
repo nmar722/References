@@ -106,5 +106,130 @@ The agronomic benefits of GhADF1-RNAi transgenic cotton are highlighted.
 * The desirable performance of GhADF1-RNAi cotton is beneficial for cultivation in water-limited environments.
 * The findings suggest potential applications for enhancing drought tolerance in other crops.
 
+### The review article "Fiber yield and quality in cotton under drought: Effects and management" by Sami et al published in **Agricultural Water Management** [@ul-allahFiberYieldQuality2021].
+
+**Abstract:** Climate change has increased the frequency and intensity of abiotic stresses, especially drought has become the major threat to cotton production worldwide due to long and intense dry spells in many cotton growing areas. Drought stress curtails the photosynthesis, carbohydrate metabolism (starch, sucrose synthesis), activities of several enzymes including vacuolar invertase and sucrose synthase, etc., which are involved in fiber development. Moreover, drought stressed cotton plant has poor assimilate translocation towards reproductive tissues, leading to poor pollen functioning, reproductive failure, and inferior fiber quality. The development of drought tolerant cotton genotypes using transgenes or QTL based molecular breeding approaches has proved effective in improving drought tolerance and fiber quality in cotton. The use of plant growth regulators and mineral elements can also aid in enhancing drought stress tolerance, fiber yield, and quality of cotton through initiating stress response related signaling cascades. Although, effects of drought stress in cotton are well reported, but variations in fiber quality due to the drought are not well explored. During the last few years, progress has been observed to understand these mechanisms which are critically reviewed here. This review highlights the water deficit stress induced habitual, physiological and biochemical changes during the reproductive growth leading to poor development of fiber. It also highlights the effect of drought stress on assimilate accumulation and portioning in reproductive tissues of cotton which finally converts into the fiber. This review will help devise new research to mitigate the negative impact of global climate change on world cotton production and fiber quality.
+
+**The main finding of the article:** This document reviews the effects of drought on cotton fiber yield and quality, highlighting physiological mechanisms and management strategies to mitigate these impacts.
+Impact of Drought on Cotton Production
+
+Drought stress significantly threatens cotton production globally, particularly affecting reproductive growth stages, which are crucial for fiber development.
+The physiological effects of drought include reduced photosynthesis, impaired carbohydrate metabolism, and poor assimilate translocation to reproductive tissues, leading to reproductive failure and inferior fiber quality.
+Cotton's growth is divided into five stages, with the most sensitive periods to drought occurring from the first square to peak bloom, where drought can lead to reduced fruiting sites and yield.
+
+Fiber Development Under Drought Stress
+
+Fiber development occurs in four overlapping stages: differentiation, elongation, secondary wall synthesis, and maturation. Drought adversely affects the first three stages, leading to shorter and weaker fibers.
+Adequate water is essential for maintaining cell turgor and carbohydrate assimilation, which are critical for fiber elongation and quality.
+Drought reduces fiber length and strength by affecting osmotic potential and disrupting carbohydrate metabolism, leading to lower sucrose concentrations in developing fibers.
+
+Source-Sink Relationships
+
+Drought alters the balance between source (photosynthesis) and sink (reproductive tissues) in cotton, causing more assimilates to be directed towards roots and leaves rather than reproductive parts.
+This shift results in reduced fiber development and lower lint yield, as reproductive structures receive insufficient assimilates for optimal growth.
+
+Management Strategies for Drought Stress
+
+Genetic Improvements: Developing drought-tolerant cotton genotypes through transgenic approaches and QTL mapping has shown promise in enhancing drought resistance and fiber quality.
+Agronomic Practices: The application of plant growth regulators (PGRs) and essential nutrients (e.g., nitrogen, potassium, phosphorus) can improve drought tolerance by enhancing cellular signaling, hormonal balance, and osmotic adjustment.
+Field management practices, such as mulching and irrigation scheduling, can help conserve soil moisture and improve water use efficiency.
+
+Conclusions and Future Directions
+
+Drought stress severely impacts cotton growth, particularly reproductive development, leading to reduced fiber yield and quality.
+Integrated management approaches combining genetic, agronomic, and field practices are essential for improving cotton production in drought-prone areas.
+Further research is needed to identify additional QTLs and genes associated with fiber quality under drought stress, aiming to develop cultivars that maintain high fiber quality in water-limited environments.
+
+### The article "Drought decreases cotton fiber strength by altering sucrose flow route" by Zhu et al published in **Journal of Experimental Botany** [@zhuDroughtDecreasesCotton2024].
+
+**Abstract:** The potential mechanisms by which drought restricts cotton fiber cell wall synthesis and fiber strength are still not fully understood. Herein, drought experiments were conducted using two cultivars of upland cotton (Gossypium hirsutum), Dexiamian 1 (drought-tolerant) and Yuzaomian 9110 (drought-sensitive). Results showed that drought notably reduced sucrose efflux from cottonseed coats to fibers by down-regulating the expression of GhSWEET10 and GhSWEET15 in outer cottonseed coats, leading to enhanced sucrose accumulation in cottonseed coats but decreased sucrose accumulation in fibers. Within cotton fibers, drought restricted the hydrolysis of sucrose to uridine-5ʹ-diphosphoglucose by suppressing sucrose synthase activity, and drought favored the conversion of uridine-5ʹ-diphosphoglucose to β-1,3-glucan rather than cellulose by up-regulating GhCALS5. Hence, cellulose content was reduced, which was the main reason for the decreased fiber strength under drought. Moreover, drought promoted lignin synthesis by up-regulating the expression of Gh4CL4, GhPAL9, GhCCR5, GhCAD11, and GhCOMT6, which partly offset the negative influence of reduced cellulose content on fiber strength. Compared with Yuzaomian 9110, the drought-tolerance of Dexiamian 1 was evidenced by the following under drought conditions: (i) greater sucrose flow from seedcoat to fiber, (ii) less β-1,3-glucan accumulation, and (iii) more lignin biosynthesis. Overall, this study provides new insights into the mechanism of reduced cotton fiber strength induced by drought.
+
+**The main finding:** The document discusses the impact of drought on cotton fiber strength, focusing on the mechanisms of sucrose transport and its effects on cellulose and lignin synthesis in cotton fibers.
+Drought Effects on Cotton Fiber Strength
+Drought significantly reduces cotton fiber strength by altering sucrose transport and metabolism.
+
+Drought decreased fiber strength by 4.8–10.8% in Yuzaomian 9110 and 4.6–5.8% in Dexiamian 1.
+The lint index was reduced by 11.6–16.1% in Yuzaomian 9110 and 4.6–10.5% in Dexiamian 1.
+Significant interaction effects were observed between water treatment and cultivar on fiber strength.
+
+Biomass Distribution Changes Under Drought
+Drought alters biomass distribution among cotton fiber, seed coat, and embryo.
+
+Drought decreased fiber and embryo biomass while cottonseed coat biomass remained unaffected.
+The proportion of cottonseed coat increased, while fiber biomass decreased under drought conditions.
+Cotton fiber biomass accumulation was significantly reduced during the critical growth period of 17–31 DPA.
+
+Photosynthate Translocation Disruption
+Drought restricts photosynthate translocation from cottonseed coat to fiber.
+
+13C content in fiber and embryo decreased significantly under drought conditions.
+Drought reduced the 13C distribution ratio in cotton fiber while increasing it in cottonseed coat.
+Greater variations in 13C distribution were observed in the drought-sensitive cultivar Yuzaomian 9110 compared to Dexiamian 1.
+
+Sucrose and Hydrolysate Accumulation Changes
+Drought increases sucrose levels in cottonseed coat but decreases them in fiber.
+
+Sucrose levels in cottonseed coat increased by significant amounts at 17 and 24 DPA under drought.
+Fiber sucrose content decreased by 28.3–46.1% in both cultivars during drought.
+Drought enhanced sucrose catabolism in cottonseed coat, while fiber experienced reduced glucose, fructose, and UDPG levels.
+
+Altered Expression of Sucrose Transporter Genes
+Drought affects the expression of sucrose transporter genes in cottonseed coat.
+
+GhSWEET10 and GhSWEET15 expression was down-regulated under drought, impacting sucrose efflux.
+Drought increased the expression of some SUT genes at 17 DPA but decreased them at 24 DPA.
+Greater decreases in sucrose transporter gene expression were noted in the drought-sensitive cultivar.
+
+Impact on Cellulose, β-1,3-Glucan, and Lignin
+Drought alters the accumulation of cellulose, β-1,3-glucan, and lignin in cotton fiber.
+
+Cellulose accumulation was significantly reduced under drought conditions.
+Drought favored the accumulation of β-1,3-glucan, which competes with cellulose for UDPG.
+Lignin synthesis was promoted by drought, partially offsetting the negative impact of reduced cellulose on fiber strength.
+
+Effects of Drought on Cotton Fiber Composition
+Drought conditions significantly alter the biochemical composition of cotton fibers, impacting their strength and quality.
+
+Drought increased β-1,3-glucan and lignin content in cotton fibers.
+The content of β-1,3-glucan was elevated at 17 DPA and 24 DPA, with the largest increase at 17 DPA.
+Lignin content increased by 32.9–64.4% in Dexiamian 1 and 18.4–47.3% in Yuzaomian 9110 from 17 DPA.
+Drought reduced cellulose content, which is crucial for fiber strength.
+
+Impact of Drought on Enzyme Activities
+Drought negatively affects the activities of key enzymes involved in carbohydrate metabolism in cotton fibers.
+
+Activities of sucrose synthase (Sus), acid invertase, and alkaline invertase decreased under drought conditions.
+Sus activity peaked at 24 DPA but was significantly suppressed by drought, especially in Dexiamian 1 (31.4–47.2% decrease) compared to Yuzaomian 9110 (22.4–30.5% decrease).
+Both acid and alkaline invertase activities dropped sharply, particularly from 17 to 24 DPA.
+
+Gene Expression Changes Under Drought
+Drought regulates the expression of genes associated with cotton fiber cell wall accumulation and metabolism.
+
+GhSusC expression was reduced by drought at 17 and 24 DPA, with a greater decrease in Dexiamian 1.
+Drought up-regulated GhCesA8 in Dexiamian 1 but down-regulated GhCesA4 and GhCesA7 in Yuzaomian 9110.
+GhCALS5 and GhBG expression increased under drought, particularly in Yuzaomian 9110 at 17 DPA.
+
+Sucrose Transport and Allocation in Drought
+Drought affects the translocation of sucrose from the cottonseed coat to the fiber, impacting fiber development.
+
+Drought reduced the translocation of photosynthates, leading to increased sucrose accumulation in the seed coat and decreased levels in the fiber.
+The expression of sucrose transporter genes (GhSWEET10 and GhSWEET15) was significantly down-regulated under drought.
+Sucrose catabolism in the cottonseed coat was enhanced, indicating a high sink activity to maintain seed coat strength.
+
+Differences in Cultivar Responses to Drought
+The response to drought varies between cotton cultivars, affecting their fiber quality and strength.
+
+Yuzaomian 9110 showed a greater decrease in sucrose translocation and Sus activity compared to Dexiamian 1.
+The drought-sensitive cultivar exhibited higher GhCALS5 levels, leading to increased β-1,3-glucan content.
+Dexiamian 1 maintained better fiber strength due to higher lignin content and better metabolic responses under drought conditions.
+
+Proposed Mechanism of Drought Impact on Fiber Strength
+Drought alters the sucrose flow route, leading to reduced fiber strength through biochemical changes.
+
+Drought inhibits photosynthetic carbon assimilation and reduces sucrose export to developing cottonseed.
+The restricted sucrose flow to fibers results in decreased cellulose accumulation and fiber strength.
+Increased lignin biosynthesis partially offsets the negative impact of reduced cellulose on fiber strength, particularly in the drought-tolerant cultivar Dexiamian 1.
+
+
 ## References
 
