@@ -1,0 +1,110 @@
+---
+title: "Bibliography"
+author: "M. Naoumkina"
+date: "`r Sys.Date()`"
+output: 
+  html_document: 
+    toc: true
+    number_sections: true
+    code_download: true
+bibliography: zotero.bib
+csl: nature.csl
+link-citations: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This document provides a brief overview of articles on cotton’s responses to drought.
+
+### The article "Down-regulation of *GhADF1* in cotton (*Gossypium hirsutum*) improves plant drought tolerance and increases fiber yield" by Qin and co-authors publisbed in **The Crop Journal** [@qinDownregulationGhADF1Cotton2022].
+
+**Abstract:** Fiber productivity and quality of cotton are severely affected by abiotic stresses. In this study, we identified the role of GhADF1, an actin depolymerizing factor, in cotton response to drought stress. GhADF1 expression in cotton could be induced by PEG6000. GhADF1-RNAi transgenic cotton showed increased tolerance to drought stress during seed germination and seedling development as well as at the reproductive stage. In contrast, overexpression of GhADF1 led to a drought-sensitive phenotype in transgenic plants. GhADF1-RNAi plants produced an enlarged root system with longer primary roots, more lateral roots, increased root dry biomass, and increased cell size. In leaves of GhADF1-RNAi cotton, proline content and activities of reactive oxygen species-scavenging enzymes were increased following drought stress compared with those in wild type. GhADF1-RNAi lines showed higher water-use efficiency than the wild type, accompanied by reduced leaf stomatal density and conductance. GhADF1-RNAi cotton produced higher fiber yield in the field under both normal and drought conditions. Transcriptomic analyses identified 124 differentially expressed genes in leaves of GhADF1-RNAi lines compared with the wild type following drought treatment. Upregulated genes included those encoding transcription factors, protein kinases, heat shock proteins, and other proteins known to be involved in stress responses. We conclude that GhADF1 reduces the expression of abiotic stress-associated genes in cotton response to drought stress and may be a promising candidate gene for crop improvement by genetic manipulation.
+
+**Main finding of the article:** The document discusses the role of the GhADF1 gene in cotton (*Gossypium hirsutum*) and its impact on improving drought tolerance and fiber yield through genetic manipulation.
+
+Role of GhADF1 in Drought Tolerance
+
+The study investigates the impact of down-regulating GhADF1 on drought tolerance and fiber yield in cotton.
+
+* GhADF1 expression is induced by PEG6000 treatment.
+* GhADF1-RNAi transgenic cotton shows increased drought tolerance during seed germination and seedling development.
+* Overexpression of GhADF1 results in drought-sensitive phenotypes.
+* GhADF1-RNAi plants exhibit enlarged root systems with longer primary roots and more lateral roots.
+
+Effects on Root and Leaf Characteristics
+
+The suppression of GhADF1 enhances root and leaf traits beneficial for drought resistance.
+
+* GhADF1-RNAi lines have increased root dry biomass and cell size.
+* Leaves of GhADF1-RNAi cotton show higher proline content and increased activities of ROS-scavenging enzymes.
+* Reduced leaf stomatal density and conductance are observed in GhADF1-RNAi lines.
+
+Agronomic Performance Under Drought Conditions
+
+GhADF1-RNAi cotton demonstrates improved agronomic traits and fiber yield in both drought and normal conditions.
+
+* Under drought, fiber yield increases by 24.35% and 21% for lines L6 and L7, respectively.
+* Significant increases in plant height (P < 0.03), boll number (P < 0.02), and fruit branch number (P < 0.03) are noted.
+* GhADF1-RNAi lines show 1.52–1.78-fold increase in dry biomass under drought conditions.
+
+Physiological Responses to Drought Stress
+
+GhADF1-RNAi cotton exhibits enhanced physiological responses to drought stress.
+
+* Increased proline content and activities of POD and CAT enzymes are observed under drought.
+* GhADF1-RNAi lines show lower malondialdehyde (MDA) content and reduced electrolyte leakage compared to wild type.
+* Total chlorophyll content decreases less in transgenic plants than in wild type under drought stress.
+
+Transcriptomic Analysis of GhADF1-RNAi Lines
+
+Transcriptomic analysis reveals the regulatory role of GhADF1 in drought-responsive gene expression.
+
+* A total of 124 differentially expressed genes (DEGs) identified in GhADF1-RNAi lines under drought stress.
+* Upregulated genes include transcription factors, protein kinases, and heat shock proteins associated with stress responses.
+* The expression levels of selected drought-responsive genes correlate with RNA-seq transcript abundances, confirming the reliability of the analysis.
+
+Effects of GhADF1-RNAi on Cotton
+
+The study investigates the impact of GhADF1-RNAi transgenic cotton on drought tolerance and agronomic traits.
+
+* GhADF1-RNAi transgenic plants exhibited reduced stomatal density and conductance, leading to increased water use efficiency (WUE).
+* Transgenic plants showed enlarged epidermal cell size and improved photosynthetic rates.
+* Field tests revealed a 24.35% and 21% increase in seed yield under drought conditions for lines 6 and 7, respectively.
+* Under normal conditions, seed yield increased by 18.24% and 13.48% for the same lines.
+
+Drought Tolerance Mechanisms in Transgenic Cotton
+
+The mechanisms by which GhADF1-RNAi enhances drought tolerance in cotton are explored.
+
+* Transgenic plants developed larger root systems, improving water and nutrient absorption.
+* Reduced stomatal density and transpiration rates contributed to higher WUE and better water retention.
+* GhADF1-RNAi plants showed lower malondialdehyde (MDA) levels and higher proline content, indicating reduced oxidative stress.
+
+Comparative Analysis with Previous Studies
+
+The findings are compared with previous research on drought tolerance in cotton and other plants.
+
+* Similar results were observed with AtHDG11, which also improved drought tolerance without negative growth effects.
+* The study aligns with previous findings that ADFs play varying roles in stress tolerance, with GhADF1 acting as a negative regulator of drought response.
+
+Gene Expression and Regulatory Pathways
+
+The study identifies key genes and transcription factors associated with GhADF1 in drought response.
+
+* Transcriptomic analysis revealed upregulation of stress-related genes and transcription factors in GhADF1-RNAi lines.
+* Gh14-3-3-L and GhMAPK683/684 are suggested to regulate GhADF1 and contribute to drought stress response.
+* The study proposes that downregulation of GhADF1 promotes root development and reduces transpiration rates.
+
+Summary of Agronomic Benefits
+
+The agronomic benefits of GhADF1-RNAi transgenic cotton are highlighted.
+
+* Transgenic plants showed improved agronomic traits, including increased height, boll number, and fiber yield.
+* The desirable performance of GhADF1-RNAi cotton is beneficial for cultivation in water-limited environments.
+* The findings suggest potential applications for enhancing drought tolerance in other crops.
+
+## References
+
